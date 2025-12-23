@@ -1,0 +1,7 @@
+{
+  "name": "AI Complaint Management System",
+  "description": "A modern AI-powered platform for submitting, classifying, and managing complaints using NLP for automatic categorization and priority assignment.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
